@@ -9,19 +9,18 @@ function App() {
   return (
     <div className="demo-big-content">
     <Layout>
-       <Header className="header-color" title="Christopher's Portfolio" scroll>
+       <Header className="header-color" title="BTWG Phone App" scroll>
             <Navigation>
                 <Link className ="link" to="/">Home</Link>
                 <Link className ="link" to="/contacts">Contacts</Link>
                 <Link className ="link" to="/chats">Chats</Link>
             </Navigation>
         </Header>
-        <Drawer className="menu-drawer" title="Portfolio Pages">
+        <Drawer className="menu-drawer" title="BTWG Phone App">
             <Navigation>
-                <Link className ="link" to="/resume">Resume</Link>
-                <Link className ="link" to="/about">About</Link>
-                <Link className ="link" to="/projects">Projects</Link>
-                <Link className ="link" to="/contact">Contact</Link>
+                <Link className ="link" to="/">Home</Link>
+                <Link className ="link" to="/contacts">Contacts</Link>
+                <Link className ="link" to="/chats">Chats</Link>
             </Navigation>
         </Drawer>
         <Content>
