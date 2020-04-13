@@ -14,8 +14,6 @@ function App() {
                 <Link className ="link" to="/">Home</Link>
                 <Link className ="link" to="/contacts">Contacts</Link>
                 <Link className ="link" to="/chats">Chats</Link>
-                <Link className ="link" to="/projects">Projects</Link>
-                <Link className ="link" to="/contact">Contact</Link>
             </Navigation>
         </Header>
         <Drawer className="menu-drawer" title="Portfolio Pages">

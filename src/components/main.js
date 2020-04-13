@@ -13,8 +13,8 @@ const Main = () => (
 
 <Switch>
 <Route exact path="/" component={Home} />
-<Route path ="/about" component={Contacts} />
-<Route path ="/projects" component={Chats} />
+<Route path ="/contacts" component={Contacts} />
+<Route path ="/chats" component={Chats} />
 </Switch>
 
 
