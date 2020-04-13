@@ -11,16 +11,16 @@ function App() {
     <Layout>
        <Header className="header-color" title="BTWG Phone App" scroll>
             <Navigation>
-                <Link className ="link" to="/">Home</Link>
-                <Link className ="link" to="/contacts">Contacts</Link>
-                <Link className ="link" to="/chats">Chats</Link>
+                <Link className ="link" to="/btwgphoneapp2/">Home</Link>
+                <Link className ="link" to="/btwgphoneapp2/contacts">Contacts</Link>
+                <Link className ="link" to="/btwgphoneapp2/chats">Chats</Link>
             </Navigation>
         </Header>
         <Drawer className="menu-drawer" title="BTWG Phone App">
             <Navigation>
-                <Link className ="link" to="/">Home</Link>
-                <Link className ="link" to="/contacts">Contacts</Link>
-                <Link className ="link" to="/chats">Chats</Link>
+                <Link className ="link" to="/btwgphoneapp2/">Home</Link>
+                <Link className ="link" to="/btwgphoneapp2/contacts">Contacts</Link>
+                <Link className ="link" to="/btwgphoneapp2/chats">Chats</Link>
             </Navigation>
         </Drawer>
         <Content>

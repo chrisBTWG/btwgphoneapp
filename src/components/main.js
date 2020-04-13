@@ -12,9 +12,9 @@ import Chats from './chats';
 const Main = () => (
 
 <Switch>
-<Route exact path="/" component={Home} />
-<Route path ="/contacts" component={Contacts} />
-<Route path ="/chats" component={Chats} />
+<Route exact path="/btwgphoneapp2/" component={Home} />
+<Route path ="/btwgphoneapp2/contacts" component={Contacts} />
+<Route path ="/btwgphoneapp2/chats" component={Chats} />
 </Switch>
 
 
