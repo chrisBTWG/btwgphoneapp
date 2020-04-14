@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/btwgphoneapp2/static/css/main.89220b60.chunk.css",
-    "main.js": "/btwgphoneapp2/static/js/main.9d33e0e2.chunk.js",
-    "main.js.map": "/btwgphoneapp2/static/js/main.9d33e0e2.chunk.js.map",
+    "main.js": "/btwgphoneapp2/static/js/main.b8270af4.chunk.js",
+    "main.js.map": "/btwgphoneapp2/static/js/main.b8270af4.chunk.js.map",
     "runtime-main.js": "/btwgphoneapp2/static/js/runtime-main.4d54569f.js",
     "runtime-main.js.map": "/btwgphoneapp2/static/js/runtime-main.4d54569f.js.map",
     "static/css/2.e4346227.chunk.css": "/btwgphoneapp2/static/css/2.e4346227.chunk.css",
     "static/js/2.f180f728.chunk.js": "/btwgphoneapp2/static/js/2.f180f728.chunk.js",
     "static/js/2.f180f728.chunk.js.map": "/btwgphoneapp2/static/js/2.f180f728.chunk.js.map",
     "index.html": "/btwgphoneapp2/index.html",
-    "precache-manifest.d2ab9486c740b092f5208de2ff71da78.js": "/btwgphoneapp2/precache-manifest.d2ab9486c740b092f5208de2ff71da78.js",
+    "precache-manifest.2a3e93b0ab6303720f4a25607384a0c3.js": "/btwgphoneapp2/precache-manifest.2a3e93b0ab6303720f4a25607384a0c3.js",
     "service-worker.js": "/btwgphoneapp2/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/btwgphoneapp2/static/css/2.e4346227.chunk.css.map",
     "static/css/main.89220b60.chunk.css.map": "/btwgphoneapp2/static/css/main.89220b60.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.e4346227.chunk.css",
     "static/js/2.f180f728.chunk.js",
     "static/css/main.89220b60.chunk.css",
-    "static/js/main.9d33e0e2.chunk.js"
+    "static/js/main.b8270af4.chunk.js"
   ]
 }

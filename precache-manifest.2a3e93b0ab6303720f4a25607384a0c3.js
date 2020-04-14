@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "289a658d5b90c98166dea20df19dbdd6",
+    "revision": "b43123b92a6943880f278066bebdca70",
     "url": "/btwgphoneapp2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/btwgphoneapp2/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "768cbdc90d80af6dd3dd",
+    "revision": "241aa7ca3530970d4383",
     "url": "/btwgphoneapp2/static/css/main.89220b60.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/btwgphoneapp2/static/js/2.f180f728.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "768cbdc90d80af6dd3dd",
-    "url": "/btwgphoneapp2/static/js/main.9d33e0e2.chunk.js"
+    "revision": "241aa7ca3530970d4383",
+    "url": "/btwgphoneapp2/static/js/main.b8270af4.chunk.js"
   },
   {
     "revision": "c30a8835c266b025c2bd",
