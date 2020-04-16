@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/btwgphoneapp2/static/css/main.2a59a9f3.chunk.css",
-    "main.js": "/btwgphoneapp2/static/js/main.aec1ecfe.chunk.js",
-    "main.js.map": "/btwgphoneapp2/static/js/main.aec1ecfe.chunk.js.map",
+    "main.css": "/btwgphoneapp2/static/css/main.4d0cee1f.chunk.css",
+    "main.js": "/btwgphoneapp2/static/js/main.d578b354.chunk.js",
+    "main.js.map": "/btwgphoneapp2/static/js/main.d578b354.chunk.js.map",
     "runtime-main.js": "/btwgphoneapp2/static/js/runtime-main.4d54569f.js",
     "runtime-main.js.map": "/btwgphoneapp2/static/js/runtime-main.4d54569f.js.map",
     "static/css/2.e4346227.chunk.css": "/btwgphoneapp2/static/css/2.e4346227.chunk.css",
     "static/js/2.f033d381.chunk.js": "/btwgphoneapp2/static/js/2.f033d381.chunk.js",
     "static/js/2.f033d381.chunk.js.map": "/btwgphoneapp2/static/js/2.f033d381.chunk.js.map",
     "index.html": "/btwgphoneapp2/index.html",
-    "precache-manifest.0e7383f8c3519426f95bf1607dcf32f6.js": "/btwgphoneapp2/precache-manifest.0e7383f8c3519426f95bf1607dcf32f6.js",
+    "precache-manifest.cd67853c008dac40b531af3523b96b86.js": "/btwgphoneapp2/precache-manifest.cd67853c008dac40b531af3523b96b86.js",
     "service-worker.js": "/btwgphoneapp2/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/btwgphoneapp2/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.2a59a9f3.chunk.css.map": "/btwgphoneapp2/static/css/main.2a59a9f3.chunk.css.map",
+    "static/css/main.4d0cee1f.chunk.css.map": "/btwgphoneapp2/static/css/main.4d0cee1f.chunk.css.map",
     "static/js/2.f033d381.chunk.js.LICENSE.txt": "/btwgphoneapp2/static/js/2.f033d381.chunk.js.LICENSE.txt",
     "static/media/btwglogo.png": "/btwgphoneapp2/static/media/btwglogo.a0c00ef3.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4d54569f.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.f033d381.chunk.js",
-    "static/css/main.2a59a9f3.chunk.css",
-    "static/js/main.aec1ecfe.chunk.js"
+    "static/css/main.4d0cee1f.chunk.css",
+    "static/js/main.d578b354.chunk.js"
   ]
 }

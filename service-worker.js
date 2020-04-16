@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/btwgphoneapp2/precache-manifest.0e7383f8c3519426f95bf1607dcf32f6.js"
+  "/btwgphoneapp2/precache-manifest.cd67853c008dac40b531af3523b96b86.js"
 );
 
 self.addEventListener('message', (event) => {
