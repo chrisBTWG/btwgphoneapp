@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/btwgphoneapp2/static/css/main.89220b60.chunk.css",
-    "main.js": "/btwgphoneapp2/static/js/main.7e2bac43.chunk.js",
-    "main.js.map": "/btwgphoneapp2/static/js/main.7e2bac43.chunk.js.map",
+    "main.css": "/btwgphoneapp2/static/css/main.91a0c127.chunk.css",
+    "main.js": "/btwgphoneapp2/static/js/main.7bf76ee5.chunk.js",
+    "main.js.map": "/btwgphoneapp2/static/js/main.7bf76ee5.chunk.js.map",
     "runtime-main.js": "/btwgphoneapp2/static/js/runtime-main.4d54569f.js",
     "runtime-main.js.map": "/btwgphoneapp2/static/js/runtime-main.4d54569f.js.map",
     "static/css/2.e4346227.chunk.css": "/btwgphoneapp2/static/css/2.e4346227.chunk.css",
-    "static/js/2.f180f728.chunk.js": "/btwgphoneapp2/static/js/2.f180f728.chunk.js",
-    "static/js/2.f180f728.chunk.js.map": "/btwgphoneapp2/static/js/2.f180f728.chunk.js.map",
+    "static/js/2.f033d381.chunk.js": "/btwgphoneapp2/static/js/2.f033d381.chunk.js",
+    "static/js/2.f033d381.chunk.js.map": "/btwgphoneapp2/static/js/2.f033d381.chunk.js.map",
     "index.html": "/btwgphoneapp2/index.html",
-    "precache-manifest.a7f7bdb8a41f7c7a2eadd9d26e3f7076.js": "/btwgphoneapp2/precache-manifest.a7f7bdb8a41f7c7a2eadd9d26e3f7076.js",
+    "precache-manifest.4d72334378e06cf088aa1d7aea90ad92.js": "/btwgphoneapp2/precache-manifest.4d72334378e06cf088aa1d7aea90ad92.js",
     "service-worker.js": "/btwgphoneapp2/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/btwgphoneapp2/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.89220b60.chunk.css.map": "/btwgphoneapp2/static/css/main.89220b60.chunk.css.map",
-    "static/js/2.f180f728.chunk.js.LICENSE.txt": "/btwgphoneapp2/static/js/2.f180f728.chunk.js.LICENSE.txt",
+    "static/css/main.91a0c127.chunk.css.map": "/btwgphoneapp2/static/css/main.91a0c127.chunk.css.map",
+    "static/js/2.f033d381.chunk.js.LICENSE.txt": "/btwgphoneapp2/static/js/2.f033d381.chunk.js.LICENSE.txt",
     "static/media/btwglogo.png": "/btwgphoneapp2/static/media/btwglogo.a0c00ef3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4d54569f.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.f180f728.chunk.js",
-    "static/css/main.89220b60.chunk.css",
-    "static/js/main.7e2bac43.chunk.js"
+    "static/js/2.f033d381.chunk.js",
+    "static/css/main.91a0c127.chunk.css",
+    "static/js/main.7bf76ee5.chunk.js"
   ]
 }
